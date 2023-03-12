@@ -1,5 +1,5 @@
 This is a portfolio project to show my other projects.
 
-Netlify:
+Netlify: my-react-protfolio.netlify.app
 
 
